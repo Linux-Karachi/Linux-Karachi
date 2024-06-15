@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Linux-Karachi
+- 👋 Hi, I’m Tariq Mehmood Malik
 - 👀 I’m interested in Coding with Creativity 
 - 🌱 I’m currently learning Python
 - 📫 You can reach me @ tariqmalik323@gmail.com
-- 😄 Pronouns: 😄😄😄😄😄
+- 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: 
 
 <!---
